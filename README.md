@@ -24,6 +24,8 @@ Cada repositorio técnico está organizado en 4 pilares fundamentales:
 * 🟦 **[365-Logic-CPP](https://github.com/FREELANCER-KFH/365-Logic-CPP)**
 * ⚙️ **[365-Logic-C](https://github.com/FREELANCER-KFH/365-Logic-C)**
 * 💻 **[365-Logic-Batch](https://github.com/FREELANCER-KFH/365-Logic-Batch)**
+* 💙 **[365-Logic-TypeScript](https://github.com/FREELANCER-KFH/365-Logic-TypeScript)**
+* 🎨 **[365-Logic-HTML-CSS](https://github.com/FREELANCER-KFH/365-Logic-HTML-CSS)**
 
 ---
 
